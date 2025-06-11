@@ -17,7 +17,7 @@ Saya adalah **Mahasiswa Teknik Informatika** yang sedang belajar dan membangun p
 📫 Kontak saya:
 - Email: *[isi jika mau ditampilkan]*  
 - LinkedIn: *[contoh: https://linkedin.com/in/sendyawaludin]*  
-- Instagram: *[opsional]*
+- Instagram: (https://www.instagram.com/sendyawldn)
 
 📁 Proyek terbaru:
 - [Sistem Kasir Biliar](https://github.com/Sendyawaldn/sistem-kasir-biliar): Aplikasi kasir berbasis web dengan fitur meja, produk, transaksi, dan laporan.

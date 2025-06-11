@@ -15,7 +15,7 @@ Saya adalah **Mahasiswa Teknik Informatika** yang sedang belajar dan membangun p
 - Mengembangkan portofolio GitHub
 
 📫 Kontak saya:
-- Email: [Sendyawaludin4568@gmail.com]  
+- Email: Sendyawaludin4568@gmail.com
 - LinkedIn: [Sendi Awaludin](https://www.linkedin.com/in/sendi-awaludin-79b373255)
 - Instagram: [@sendyawldn](https://www.instagram.com/sendyawldn)
 

@@ -15,9 +15,9 @@ Saya adalah **Mahasiswa Teknik Informatika** yang sedang belajar dan membangun p
 - Mengembangkan portofolio GitHub
 
 📫 Kontak saya:
-- Email: *[isi jika mau ditampilkan]*  
-- LinkedIn: *[contoh: https://linkedin.com/in/sendyawaludin]*  
-- Instagram: (https://www.instagram.com/sendyawldn)
+- Email: [Sendyawaludin4568@gmail.com]  
+- LinkedIn: [Sendi Awaludin](https://www.linkedin.com/in/sendi-awaludin-79b373255)
+- Instagram: [@sendyawldn](https://www.instagram.com/sendyawldn)
 
 📁 Proyek terbaru:
 - [Sistem Kasir Biliar](https://github.com/Sendyawaldn/sistem-kasir-biliar): Aplikasi kasir berbasis web dengan fitur meja, produk, transaksi, dan laporan.

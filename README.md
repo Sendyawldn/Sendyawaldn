@@ -15,6 +15,12 @@ Saya adalah **Mahasiswa Teknik Informatika** yang sedang belajar dan membangun p
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sendyawldn/sendyawldn/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/sendyawldn/sendyawldn/output/snake.svg" alt="Snake animation" />
+
+###
+
 💼 Fokus saya saat ini:
 - Membangun aplikasi kasir dengan Laravel
 - Membuat mobile app sederhana dengan Flutter
